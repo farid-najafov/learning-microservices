@@ -1,0 +1,2 @@
+insert into exchange_value(curr_from, curr_to, conversion_multiple, port) values ('USD', 'AZN', 55, 0)
+insert into exchange_value(curr_from, curr_to, conversion_multiple, port) values ('EUR', 'AZN', 75, 0)
